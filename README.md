@@ -49,4 +49,4 @@ distributed allows to execute the learning algorithms
 automatic faster without compromising
 their performance.
 
-![alt text]([http://url/to/img.png](https://analyticsinsights.io/wp-content/uploads/2019/02/logo-apache-spark.png))
+![alt text](https://analyticsinsights.io/wp-content/uploads/2019/02/logo-apache-spark.png)
