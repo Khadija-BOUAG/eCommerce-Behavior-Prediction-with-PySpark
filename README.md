@@ -49,4 +49,4 @@ distributed allows to execute the learning algorithms
 automatic faster without compromising
 their performance.
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff3%2FApache_Spark_logo.svg%2F1200px-Apache_Spark_logo.svg.png&imgrefurl=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FApache_Spark&tbnid=CvWVGFCAF1TZOM&vet=12ahUKEwit24Opwsn6AhWBnoQIHc9MCyoQMygAegUIARC_AQ..i&docid=bZTcZSkZJWm8gM&w=1200&h=623&q=apache%20spark&client=opera&ved=2ahUKEwit24Opwsn6AhWBnoQIHc9MCyoQMygAegUIARC_AQ
+![alt text]([http://url/to/img.png](https://analyticsinsights.io/wp-content/uploads/2019/02/logo-apache-spark.png))
